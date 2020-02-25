@@ -1,7 +1,7 @@
 # PeakFile
  Cmd line executable to read top lines of file
  
- Add \PeakFile\bin\Release\netcoreapp2.1\win10-x64\ to Path environment variable
+ Add \PeakFile\bin\Release\netcoreapp2.1\win10-x64\ to Path environment variable to allow it to be ran from Cmd
  
  >PeakFile
  
